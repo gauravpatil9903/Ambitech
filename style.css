@@ -56,7 +56,7 @@ nav li{
 
 #first_sec{
     background-color:#C8C8C8;
-    background-image: url('/Resources/istockphoto-1130586553-2048x2048.jpg');
+    background-image: url('Resources/istockphoto-1130586553-2048x2048.jpg');
     /* radial-gradient(at 16% 42%, rgb(255, 255, 255) 0px, transparent 50%); */
     display: flex;
     justify-content: space-between;
